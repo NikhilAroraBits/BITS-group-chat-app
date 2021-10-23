@@ -1,7 +1,7 @@
 # BITS-group-chat-app
 CPAD assignment-3, BITS cross platform group chat app.
 
-Our Team
+Our Team- Group 23
 
 | Roll no       | Name            |
 | ------------- |:----------------:| 
