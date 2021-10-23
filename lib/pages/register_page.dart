@@ -1,10 +1,10 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:group_chat_app/helper/helper_functions.dart';
-import 'package:group_chat_app/pages/home_page.dart';
-import 'package:group_chat_app/services/auth_service.dart';
-import 'package:group_chat_app/shared/constants.dart';
-import 'package:group_chat_app/shared/loading.dart';
+import 'package:bits_group_chat_app/helper/helper_functions.dart';
+import 'package:bits_group_chat_app/pages/home_page.dart';
+import 'package:bits_group_chat_app/services/auth_service.dart';
+import 'package:bits_group_chat_app/shared/constants.dart';
+import 'package:bits_group_chat_app/shared/loading.dart';
 
 class RegisterPage extends StatefulWidget {
   final Function toggleView;
@@ -74,7 +74,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: <Widget>[
-                  Text("BITS Group Chat login", style: TextStyle(color: Colors.white, fontSize: 40.0, fontWeight: FontWeight.bold)),
+                  Text("BITS Group Chat Login", style: TextStyle(color: Colors.white, fontSize: 40.0, fontWeight: FontWeight.bold)),
                     
                   SizedBox(height: 30.0),
                     

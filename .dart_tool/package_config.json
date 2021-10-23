@@ -332,13 +332,13 @@
       "languageVersion": "2.3"
     },
     {
-      "name": "group_chat_app",
+      "name": "bits_group_chat_app",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2021-10-23T09:59:58.188551Z",
+  "generated": "2021-10-23T12:13:51.280634Z",
   "generator": "pub",
   "generatorVersion": "2.13.4"
 }

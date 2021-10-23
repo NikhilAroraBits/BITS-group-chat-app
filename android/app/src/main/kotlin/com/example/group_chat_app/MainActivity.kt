@@ -1,4 +1,4 @@
-package com.example.group_chat_app
+package com.example.bits_group_chat_app
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

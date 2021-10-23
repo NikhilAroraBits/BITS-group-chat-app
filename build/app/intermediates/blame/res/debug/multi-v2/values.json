@@ -1,44 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\arora\\Desktop\\CPAD_Final\\Group_Chat_App\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\arora\\Desktop\\BITS_2nd Sem\\Cross-platform\\BITS_chat_clone\\BITS-group-chat-app\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\arora\\Desktop\\CPAD_Final\\Group_Chat_App\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,714",
-                        "endColumns": "143,81,103,108,119,99,76",
-                        "endOffsets": "194,276,380,489,609,709,786"
-                    },
-                    "to": {
-                        "startLines": "104,105,106,107,108,109,110",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "7730,7874,7956,8060,8169,8289,8389",
-                        "endColumns": "143,81,103,108,119,99,76",
-                        "endOffsets": "7869,7951,8055,8164,8284,8384,8461"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\arora\\Desktop\\CPAD_Final\\Group_Chat_App\\android\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "353"
-                    },
-                    "to": {
-                        "startLines": "112",
-                        "startColumns": "4",
-                        "startOffsets": "8537",
-                        "endLines": "116",
-                        "endColumns": "12",
-                        "endOffsets": "8829"
-                    }
-                },
                 {
                     "source": "C:\\Users\\arora\\.gradle\\caches\\transforms-2\\files-2.1\\55028184bcaf312f66a5b9e408e7e9e0\\jetified-play-services-basement-17.0.0\\res\\values\\values.xml",
                     "from": {
@@ -54,6 +18,23 @@
                         "startOffsets": "5259,6437",
                         "endColumns": "67,166",
                         "endOffsets": "5322,6599"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\arora\\Desktop\\BITS_2nd Sem\\Cross-platform\\BITS_chat_clone\\BITS-group-chat-app\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,714",
+                        "endColumns": "143,81,103,108,119,99,76",
+                        "endOffsets": "194,276,380,489,609,709,786"
+                    },
+                    "to": {
+                        "startLines": "104,105,106,107,108,109,110",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "7730,7874,7956,8060,8169,8289,8389",
+                        "endColumns": "143,81,103,108,119,99,76",
+                        "endOffsets": "7869,7951,8055,8164,8284,8384,8461"
                     }
                 },
                 {
@@ -92,6 +73,25 @@
                         "endLines": "2,3,4,5,6,7,8,9,86,87,88,89,90,91,92,93,95,96,97,98,99,100,101,102,103,268,287",
                         "endColumns": "89,79,89,89,79,80,79,79,104,180,124,106,179,122,115,102,187,104,180,124,174,147,62,61,78,20,20",
                         "endOffsets": "190,270,360,450,530,611,691,771,5497,5678,5803,5910,6090,6213,6329,6432,6787,6892,7073,7198,7373,7521,7584,7646,7725,17447,17864"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\arora\\Desktop\\BITS_2nd Sem\\Cross-platform\\BITS_chat_clone\\BITS-group-chat-app\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "353"
+                    },
+                    "to": {
+                        "startLines": "112",
+                        "startColumns": "4",
+                        "startOffsets": "8537",
+                        "endLines": "116",
+                        "endColumns": "12",
+                        "endOffsets": "8829"
                     }
                 }
             ]

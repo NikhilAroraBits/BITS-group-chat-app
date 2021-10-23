@@ -1,7 +1,7 @@
 # compiler: R8
 # compiler_version: 1.5.64
 # min_api: 21
-# pg_map_id: 48cae42
+# pg_map_id: 3edca8f
 androidx.activity.Cancellable -> androidx.activity.a:
 androidx.activity.ComponentActivity -> androidx.activity.ComponentActivity:
     androidx.activity.OnBackPressedDispatcher mOnBackPressedDispatcher -> e
@@ -1688,7 +1688,7 @@ androidx.versionedparcelable.VersionedParcelParcel -> androidx.versionedparcelab
     android.os.Parcelable readParcelable() -> h
     java.lang.String readString() -> i
 androidx.versionedparcelable.VersionedParcelable -> androidx.versionedparcelable.c:
-com.example.group_chat_app.MainActivity -> com.example.group_chat_app.MainActivity:
+com.example.bits_group_chat_app.MainActivity -> com.example.bits_group_chat_app.MainActivity:
     void configureFlutterEngine(io.flutter.embedding.engine.FlutterEngine) -> b
 com.google.android.gms.ads.identifier.AdvertisingIdClient -> b.a.a.a.a.a.a:
     com.google.android.gms.common.BlockingServiceConnection zze -> a

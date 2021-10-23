@@ -1,12 +1,12 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:group_chat_app/helper/helper_functions.dart';
-import 'package:group_chat_app/pages/home_page.dart';
-import 'package:group_chat_app/services/auth_service.dart';
-import 'package:group_chat_app/services/database_service.dart';
-import 'package:group_chat_app/shared/constants.dart';
-import 'package:group_chat_app/shared/loading.dart';
+import 'package:bits_group_chat_app/helper/helper_functions.dart';
+import 'package:bits_group_chat_app/pages/home_page.dart';
+import 'package:bits_group_chat_app/services/auth_service.dart';
+import 'package:bits_group_chat_app/services/database_service.dart';
+import 'package:bits_group_chat_app/shared/constants.dart';
+import 'package:bits_group_chat_app/shared/loading.dart';
 
 class SignInPage extends StatefulWidget {
   final Function toggleView;

@@ -1,14 +1,14 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.group_chat_app"
+3    package="com.example.bits_group_chat_app"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml
+8-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml
+9-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml
 10    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
 11    <!-- <uses-sdk android:minSdkVersion="14" /> -->
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -34,38 +34,38 @@
 22         FlutterApplication and put your custom class here.
 23    -->
 24    <application
-24-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:8:5-29:19
+24-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:8:5-29:19
 25        android:name="io.flutter.app.FlutterApplication"
-25-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:9:9-57
+25-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:9:9-57
 26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 26-->[androidx.core:core:1.1.0] C:\Users\arora\.gradle\caches\transforms-2\files-2.1\e6856c7cff7219f18cbbcc5d8d7cecec\core-1.1.0\AndroidManifest.xml:24:18-86
 27        android:icon="@mipmap/ic_launcher"
-27-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:11:9-43
-28        android:label="group_chat_app" >
-28-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:10:9-39
+27-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:11:9-43
+28        android:label="bits_group_chat_app" >
+28-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:10:9-44
 29        <activity
-29-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:12:9-23:20
-30            android:name="com.example.group_chat_app.MainActivity"
-30-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:13:13-41
+29-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:12:9-23:20
+30            android:name="com.example.bits_group_chat_app.MainActivity"
+30-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:13:13-41
 31            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-31-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:16:13-163
+31-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:16:13-163
 32            android:hardwareAccelerated="true"
-32-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:17:13-47
+32-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:17:13-47
 33            android:launchMode="singleTop"
-33-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:14:13-43
+33-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:14:13-43
 34            android:theme="@style/LaunchTheme"
-34-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:15:13-47
+34-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:15:13-47
 35            android:windowSoftInputMode="adjustResize" >
-35-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:18:13-55
+35-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:18:13-55
 36            <intent-filter>
-36-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:19:13-22:29
+36-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:19:13-22:29
 37                <action android:name="android.intent.action.MAIN" />
-37-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:20:17-68
-37-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:20:25-66
+37-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:20:17-68
+37-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:20:25-66
 38
 39                <category android:name="android.intent.category.LAUNCHER" />
-39-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:21:17-76
-39-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:21:27-74
+39-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:21:17-76
+39-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:21:27-74
 40            </intent-filter>
 41        </activity>
 42        <!--
@@ -73,38 +73,38 @@
 44             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 45        -->
 46        <meta-data
-46-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:26:9-28:33
+46-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:26:9-28:33
 47            android:name="flutterEmbedding"
-47-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:27:13-44
+47-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:27:13-44
 48            android:value="2" />
-48-->C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\android\app\src\main\AndroidManifest.xml:28:13-30
+48-->C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\android\app\src\main\AndroidManifest.xml:28:13-30
 49
 50        <service
-50-->[:firebase_auth] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
+50-->[:firebase_auth] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:9-12:19
 51            android:name="com.google.firebase.components.ComponentDiscoveryService"
-51-->[:firebase_auth] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
+51-->[:firebase_auth] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:8:18-89
 52            android:directBootAware="true"
 52-->[com.google.firebase:firebase-common:19.3.0] C:\Users\arora\.gradle\caches\transforms-2\files-2.1\369c06943e8422b6393953bc71601846\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 53            android:exported="false" >
 53-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\arora\.gradle\caches\transforms-2\files-2.1\3fea6b72018b28b472cf7d10c03aabd6\firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
 54            <meta-data
-54-->[:firebase_auth] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+54-->[:firebase_auth] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 55                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
-55-->[:firebase_auth] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-122
+55-->[:firebase_auth] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:10:17-122
 56                android:value="com.google.firebase.components.ComponentRegistrar" />
-56-->[:firebase_auth] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+56-->[:firebase_auth] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\firebase_auth\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 57            <meta-data
-57-->[:cloud_firestore] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+57-->[:cloud_firestore] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 58                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
-58-->[:cloud_firestore] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-133
+58-->[:cloud_firestore] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:10:17-133
 59                android:value="com.google.firebase.components.ComponentRegistrar" />
-59-->[:cloud_firestore] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+59-->[:cloud_firestore] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\cloud_firestore\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 60            <meta-data
-60-->[:firebase_core] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
+60-->[:firebase_core] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:9:13-11:85
 61                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-61-->[:firebase_core] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-123
+61-->[:firebase_core] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:10:17-123
 62                android:value="com.google.firebase.components.ComponentRegistrar" />
-62-->[:firebase_core] C:\Users\arora\Desktop\CPAD_Final\Group_Chat_App\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
+62-->[:firebase_core] C:\Users\arora\Desktop\BITS_2nd Sem\Cross-platform\BITS_chat_clone\BITS-group-chat-app\build\firebase_core\intermediates\library_manifest\release\AndroidManifest.xml:11:17-82
 63            <meta-data
 63-->[com.google.firebase:firebase-auth:19.2.0] C:\Users\arora\.gradle\caches\transforms-2\files-2.1\3fea6b72018b28b472cf7d10c03aabd6\firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
 64                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -212,7 +212,7 @@
 119-->[com.google.firebase:firebase-common:19.3.0] C:\Users\arora\.gradle\caches\transforms-2\files-2.1\369c06943e8422b6393953bc71601846\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
 120            android:name="com.google.firebase.provider.FirebaseInitProvider"
 120-->[com.google.firebase:firebase-common:19.3.0] C:\Users\arora\.gradle\caches\transforms-2\files-2.1\369c06943e8422b6393953bc71601846\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
-121            android:authorities="com.example.group_chat_app.firebaseinitprovider"
+121            android:authorities="com.example.bits_group_chat_app.firebaseinitprovider"
 121-->[com.google.firebase:firebase-common:19.3.0] C:\Users\arora\.gradle\caches\transforms-2\files-2.1\369c06943e8422b6393953bc71601846\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
 122            android:exported="false"
 122-->[com.google.firebase:firebase-common:19.3.0] C:\Users\arora\.gradle\caches\transforms-2\files-2.1\369c06943e8422b6393953bc71601846\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37

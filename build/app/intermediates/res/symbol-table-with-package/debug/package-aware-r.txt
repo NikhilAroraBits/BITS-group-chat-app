@@ -1,4 +1,4 @@
-com.example.group_chat_app
+com.example.bits_group_chat_app
 attr alpha
 attr buttonSize
 attr circleCrop
