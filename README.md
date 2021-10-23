@@ -2,11 +2,13 @@
 CPAD assignment-3, BITS cross platform group chat app.
 
 Our Team
-2020mt93730 - Dilsha Sajan
-2020mt93734 - Hanish Bittu P A
-2020mt93507 - Nikhil Arora
-2020mt93735 - Priyanka KP
 
+| Roll no       | Name            |
+| ------------- |:----------------:| 
+| 2020mt93730   | Dilsha Sajan     |
+| 2020mt93734   | Hanish Bittu P A |  
+| 2020mt93507   | Nikhil Arora     |
+| 2020mt93735   | Priyanka KP      |
 
 # Steps to run the code.
 1. Take clone of the repo 
