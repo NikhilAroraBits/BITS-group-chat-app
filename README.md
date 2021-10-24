@@ -20,6 +20,7 @@ Our Team- Group 23
 
 
 # Demo video
+Note: For full video please refer to zip shared in google drive. In this video we have explained use-case and demo only, as github has limit on size of video.
 
 https://user-images.githubusercontent.com/92605215/138565427-2ea646b2-e3b7-40fb-8696-c6b64901693d.mp4
 
