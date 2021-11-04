@@ -1,3 +1,26 @@
 ## Welcome to GitHub page for our group
 
 Welcome to OSSE assignment
+
+Our Team- Group 23
+
+| Roll no       | Name            |
+| ------------- |:----------------:| 
+| 2020mt93730   | Dilsha Sajan     |
+| 2020mt93734   | Hanish Bittu P A |  
+| 2020mt93507   | Nikhil Arora     |
+| 2020mt93735   | Priyanka KP      |
+
+# Steps to run the code.
+1. Take clone of the repo 
+2. Go to cloned folder 
+3. Go to pubspec.yaml 
+4. Click get pub get to get the dependencies (considering you have android studio installed)
+5. Start emulator or connect your physical device
+6. Run the app and you are good to go :)
+
+
+# Demo video
+Note: For full video please refer to zip shared in google drive. In this video we have explained use-case and demo only, as github has limit on size of video.
+
+https://user-images.githubusercontent.com/92605215/138565427-2ea646b2-e3b7-40fb-8696-c6b64901693d.mp4
